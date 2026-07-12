@@ -65,9 +65,9 @@ export default function CartPage() {
 
         <div className="mt-10 flex justify-between items-center">
           <p className="text-lg font-semibold">Total: ₹{cartTotal}</p>
-          <button className="bg-black text-white px-10 py-4 rounded-full text-sm font-medium hover:bg-gray-800 transition-colors">
+          <Link href="/checkout" className="bg-black text-white px-10 py-4 rounded-full text-sm font-medium hover:bg-gray-800 transition-colors">
             CHECKOUT
-          </button>
+          </Link>
         </div>
       </section>
       <Footer />
