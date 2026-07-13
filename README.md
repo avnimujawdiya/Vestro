@@ -2,7 +2,7 @@
 
 A fully animated, AI-inspired e-commerce platform with a cinematic 3D intro, functional cart & checkout flow, and a custom backend API layer — built to feel like a real production shopping experience.
 
-**Live Demo:** [Coming Soon]
+**Live Demo:** [vestro-orpin.vercel.app](https://vestro-orpin.vercel.app)
 
 ---
 
